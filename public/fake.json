@@ -1,0 +1,87 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/F6m3Ptm/nuduls.png",
+      "recipe_id": 1,
+      "recipe_name": "Chicken Teriyaki",
+      "short_description": "A delicious and easy-to-make teriyaki chicken recipe.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/9rZzzxP/green-Vegetab.png",
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "A classic Italian pasta dish with creamy sauce and bacon.",
+      "ingredients": [
+        "250 g spaghetti",
+        "100 g bacon",
+        "2 eggs",
+        "50 g Parmesan cheese"
+      ],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/F6m3Ptm/nuduls.png",
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A healthy and colorful stir-fry with mixed vegetables.",
+      "ingredients": [
+        "2 cups mixed vegetables",
+        "1 tablespoon sesame oil",
+        "1 clove garlic",
+        "1 inch ginger"
+      ],
+      "preparing_time": 20,
+      "calories": 200
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/9rZzzxP/green-Vegetab.png",
+      "recipe_id": 4,
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "A classic dessert recipe with chewy chocolate chips.",
+      "ingredients": [
+        "1 cup butter",
+        "1 cup sugar",
+        "2 eggs",
+        "2 cups flour",
+        "1 cup chocolate chips"
+      ],
+      "preparing_time": 35,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/F6m3Ptm/nuduls.png",
+      "recipe_id": 5,
+      "recipe_name": "Caesar Salad",
+      "short_description": "A refreshing salad with romaine lettuce, croutons, and Parmesan cheese.",
+      "ingredients": [
+        "1 head romaine lettuce",
+        "1 cup croutons",
+        "1/4 cup Parmesan cheese",
+        "1/4 cup Caesar dressing"
+      ],
+      "preparing_time": 15,
+      "calories": 150
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/9rZzzxP/green-Vegetab.png",
+      "recipe_id": 6,
+      "recipe_name": "Sushi Rolls",
+      "short_description": "A Japanese delicacy with rice, seaweed, and fillings.",
+      "ingredients": [
+        "2 cups sushi rice",
+        "1 sheet nori",
+        "1/2 cup avocado",
+        "1/4 cup cucumber"
+      ],
+      "preparing_time": 40,
+      "calories": 250
+    }
+  ]
